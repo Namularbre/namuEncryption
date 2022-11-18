@@ -1,5 +1,5 @@
 {
-  "name": "inscryption",
+  "name": "namuencryption",
   "version": "1.0.0",
   "description": "Encrypt and decrypt something.",
   "main": "index.js",

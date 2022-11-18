@@ -17,4 +17,3 @@ exports.encrypt = function encrypt(plainText) {
 exports.compare = function compare(plainText, encryptedText) {
     return bcrypt.compare(plainText, encryptedText);
 }
-
