@@ -2,7 +2,7 @@
   "name": "namuencryption",
   "version": "1.0.0",
   "description": "Encrypt and decrypt something.",
-  "main": "namuEncryption.js",
+  "main": "./namuEncryption.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
